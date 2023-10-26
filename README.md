@@ -1,5 +1,4 @@
 # PiscineReloaded
-Compilation of exercises in C
 
 C Functions Pool Repository:
 
