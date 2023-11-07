@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a macro ABS which replaces its arguments by it absolute value*/
 #ifndef FT_ABS_H
 # define FT_ABS_H
 # define ABS(Value) ((Value < 0) ? (-Value):(Value))
