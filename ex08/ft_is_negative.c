@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a function that displays 'N' or 'P', depending on the interger's sign entered as a parameter. if n is 
+negative, displays 'N'. if n is positive or null, displays 'P'*/
 void	ft_putchar(char c);
 
 void	ft_is_negative(int n)
