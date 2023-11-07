@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Reproduce the behavior of the function strlen*/
 int	ft_strlen(char *str)
 {
 	int	i;
