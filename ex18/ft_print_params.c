@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a program that displays its given arguments*/
 void	ft_putchar(char c);
 
 void	ft_print_params(char *argv)
