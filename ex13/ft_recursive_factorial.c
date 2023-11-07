@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create an recursive function that returns the result of a factorial operation based on the number given as a parameter
+if there's an error, the function should return 0*/
 int	ft_recursive_factorial(int nb)
 {
 	if (nb == 0)
