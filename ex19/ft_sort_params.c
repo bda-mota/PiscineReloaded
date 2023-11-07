@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a program that displays its given arguments sorted by ascii*/
 void	ft_putchar(char c);
 
 int	ft_strcmp(char *s1, char *s2)
