@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a function that displays all digits, on a single line, by ascending order.*/
 void	ft_putchar(char c);
 
 void	ft_print_numbers(void)
