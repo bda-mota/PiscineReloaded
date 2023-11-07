@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Reproduce the behavior of the function strdup*/
 #include <stdlib.h>
 
 int	ft_strlen(char *src)
