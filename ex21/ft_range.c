@@ -12,6 +12,7 @@
 
 #include <stdlib.h>
 
+/*Create a function which returns an array of ints. This int array should contain all values between min and max*/
 int	*ft_range(int min, int max)
 {
 	int	*array;
