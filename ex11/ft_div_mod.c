@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a function that divides parameters 'a' by 'b' and stores the result in the int pointer by 'div'.
+It also stores the remainder of the division of 'a' by 'b' in the int pointer by 'mod'*/
 void	ft_div_mod(int a, int b, int *div, int *mod)
 {
 	*div = a / b;
