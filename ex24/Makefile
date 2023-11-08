@@ -10,6 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
+/*Create a Makefile that'll compile your libft.a*/
 CFILES = srcs/ft_putchar.c srcs/ft_putstr.c srcs/ft_strcmp.c srcs/ft_strlen.c srcs/ft_swap.c
 OFILES = ${CFILES:.c=.o}
 CC = gcc
