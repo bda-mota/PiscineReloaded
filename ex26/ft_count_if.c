@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create the funciton ft_count_if which will return the number of elements of the array that return 1, passed to the function f*/
 int	ft_count_if(char **tab, int (*f)(char*))
 {
 	int	count;
