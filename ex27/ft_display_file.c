@@ -10,6 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+/*Create a program that shows in the output, the content of the file passed as a parameter. Malloc is forbidden.*/
 #include <fcntl.h>
 #include <unistd.h>
 
